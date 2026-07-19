@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "shuvollb.aternos.me",
-    "port": 0969,
+    "port": 50969,
     "version": "",
     "try-creative": false
   },
